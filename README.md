@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 About me
+### 🧠 Sobre mim
 
 * 💻 Estudando e desenvolvendo projetos em **Python, C e C++**
 * 🔌 Interesse na integração entre **Hardware e Software** (Microcontroladores, IoT e Automação)
@@ -15,7 +15,7 @@
 
 ---
 
-## ☕ Skills & Technologies
+## ☕ Habilidades
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="70"/></a>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Meus contatos
 
 <table align="center" border="0" cellspacing="0" cellpadding="6">
   <tr>
